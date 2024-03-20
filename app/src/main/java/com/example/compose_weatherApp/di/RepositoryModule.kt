@@ -1,6 +1,6 @@
 package com.example.compose_weatherApp.di
 
-import com.plcoding.weatherapp.data.repository.WeatherRepositoryImpl
+import com.example.compose_weatherApp.data.repository.WeatherRepositoryImpl
 import com.example.compose_weatherApp.domain.repository.WeatherRepository
 import dagger.Binds
 import dagger.Module

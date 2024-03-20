@@ -1,4 +1,4 @@
-package com.plcoding.weatherapp.data.repository
+package com.example.compose_weatherApp.data.repository
 
 import com.example.compose_weatherApp.data.mappers.toWeatherInfo
 import com.example.compose_weatherApp.data.remote.WeatherApi
